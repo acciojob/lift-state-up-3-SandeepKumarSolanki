@@ -27,7 +27,7 @@ const App = () => {
         setSelectedOption={setSelectedOption}
       />
 
-      <p>Selected Option: {selectedOption == 1 ?'Option 1' : selectedOption == 2 ? 'option 2' : ''}</p>
+      <p>Selected Option: {selectedOption == 1 ?'Option 1' : selectedOption == 2 ? 'Option 2' : ''}</p>
      
     </div>
   )
